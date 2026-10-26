@@ -1,0 +1,22 @@
+{
+ "format": "isobake-ground/1",
+ "metres": 8,
+ "size": [
+  768,
+  384
+ ],
+ "ppm": 67.88225099390857,
+ "hmax": 0.25,
+ "swatches": {
+  "dirt": {
+   "lit": "dirt.lit.png",
+   "shade": "dirt.shade.png",
+   "height": "dirt.height.png"
+  },
+  "grass": {
+   "lit": "grass.lit.png",
+   "shade": "grass.shade.png",
+   "height": "grass.height.png"
+  }
+ }
+}
